@@ -6,6 +6,7 @@
 	"author": "Tarik Carey",
 	"description": "Learning npm on freeCodeCamp using cyclic for app deployment and Github Codespaces for development",
 	"keywords": [ "backend", "npm", "freecodecamp" ],
+	"license": "MIT",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
