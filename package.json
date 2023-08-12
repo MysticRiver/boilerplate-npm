@@ -9,10 +9,7 @@
 	"license": "MIT",
 	"version": "1.2.0",
 	"main": "server.js",
-	"dependencies": {
-		"package-name": "version",
-		"@freecodecamp/example": "1.1.0"
-	  }
+	
 	"scripts": {
 		"start": "node server.js"
 	},
