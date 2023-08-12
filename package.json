@@ -7,6 +7,7 @@
 	"description": "Learning npm on freeCodeCamp using cyclic for app deployment and Github Codespaces for development",
 	"keywords": [ "backend", "npm", "freecodecamp" ],
 	"license": "MIT",
+	"version": "1.2.0",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
